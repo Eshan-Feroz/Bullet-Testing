@@ -1,2 +1,2 @@
-# Bullet-Testing
-Measure the damage of the bullets when in collision with a wall
+# p5.play-boilerplate
+Boiler plate for p5.play
